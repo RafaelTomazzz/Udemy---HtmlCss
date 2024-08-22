@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p, h1 {
+    color: darkred;
+}
+
+body div section p,
+body div section h1 {
+    color: blue;
+}
+
+.heading {
+    color: purple;
+}

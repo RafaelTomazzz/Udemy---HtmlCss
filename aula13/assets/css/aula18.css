@@ -1,0 +1,10 @@
+#texto {
+    color: red;
+    font-family: sans-serif;
+}
+
+/* initial desativa a herança */
+p {
+    color: initial;
+    font-family: initial;
+}
